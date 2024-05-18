@@ -1,7 +1,7 @@
 # CS-255_Journal
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 For this project the client was DriverPass and they wanted to create a system that allows customers to create accounts that will give them access to
-driving educationa and practice tests. It will also allow them to schedule appointments for drive time and alos allow a secritary to schedule these appointments
+driving education and practice tests. It will also allow them to schedule appointments for drive time and also allow a secritary to schedule these appointments
 for the customers.
 
 What did you do particularly well?
